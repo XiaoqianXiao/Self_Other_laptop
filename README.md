@@ -2,7 +2,7 @@
 # Use sum_results.py to generate summary for further analysis. Detailed descriptions of each value and column can be found within the script.
 
 * Work on psychopy v2024.1.5 on Mac OS<br>
-* For practice: J for yes and K for no; press space to start.
+* For practice: J for yes and K for no; press space to start (same for laptop).
 * For scan: ??r g for yes and for no; wait for trigger to start
 * Mark reported error for windows as follows for last version, please notice that could still true for current version. Test it and add codes for different operating system if needed.
 ![image](https://github.com/user-attachments/assets/a5c20413-0075-430d-9af4-0f4b1652b961)<br>
